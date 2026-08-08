@@ -141,12 +141,27 @@ It can also be used as a demonstration of practical skills in:
 * ☁️ Cloud deployment
 * 📊 Advanced candidate analytics
 
+
+## 📸 Screenshots
+
+### Resume Upload & Job Description
+![Resume Upload](screenshots/home.png)
+
+### Recruiter Dashboard
+![Recruiter Dashboard](screenshots/dashboard.png)
+
+### Candidate Ranking
+![Candidate Ranking](screenshots/ranking.png)
+
+### Downloadable Report
+![Download Report](screenshots/report.png)
+
+---
 ## 👩‍💻 Author
 
 **Tanushri Mishra**
 
 B.Tech – Computer Science & Engineering
 
----
 
 ⭐ If you find this project useful, consider giving the repository a star!
